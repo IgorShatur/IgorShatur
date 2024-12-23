@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Igor Shaturnyi
-- 👀 I’m interested in AI design and AI analitics
-Electronic and Programmer
-I became a pensioner. And I am only glad that I can devote more time to my hobbies....  
-- 📫 How to reach me: ishbkc@gmail.com
+- 👀 I’m interested in AI design 
+-   I worked long time as Engineer Electronic and C\C++ Programmer for AVR Mikrokontrollers and PC.
+-   And I decided for myself: Stop Technique, that's enough. I'm interested in the beautiful: design and literature.
+-   I became a pensioner. And I am only glad that I can devote more time to my hobbies....  
+- 📫 How to reach me: htecavt(a)gmail.com    replace "@" ... 
 
 
 
