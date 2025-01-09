@@ -4,7 +4,7 @@
 -   And I decided for myself: Stop Technique, that's enough. I'm interested in the beautiful: design and literature.
 -   I became a pensioner. And I am only glad that I can devote more time to my hobbies....  
 - 📫 How to reach me: htecavt(a)gmail.com    replace "@" ... 
-
+visit my C/C++ Projects web: https://ishplc.github.io/about/
 
 
 <!---
